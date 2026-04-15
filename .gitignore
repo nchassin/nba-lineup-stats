@@ -1,0 +1,15 @@
+# Database (too large for git — transfer manually to Railway)
+backend/lineups.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# macOS
+.DS_Store
